@@ -1,7 +1,7 @@
 ### Olá, Meu nome E Leonardo Mattos 👋
 
 - 🔭 Atualmente estou trabalhando na Uniminas Ead como Desenvolvedor Web Full-Stack
-- 🌱 Atualmente estou aprendendo Java, Laravel, e melhorando minhas habilidades em PHP
+- 🌱 Atualmente estou aprendendo Java, Laravel, Python, NextJs e melhorando minhas habilidades em PHP
 
 
 
